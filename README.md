@@ -4,7 +4,7 @@
 GitHub上のpdfにおいて日本語が表示されない問題のサンプル。  
 詳しくはQiitaの記事[リンク](https://qiita.com/nisshy82/items/2c403e8787cf551255a1) を参照のこと
 
-## pdffontの実行結果
+## pdffontsの実行結果
 uniの部分が違う
 ### shippai.pdf
 ```shell
