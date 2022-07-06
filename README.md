@@ -1,8 +1,8 @@
 # sample_unicode_uplatex
 
 ## 概要
-GitHub上のpdfにおいて日本語が表示されない問題のサンプル。\\
-詳しくはQiitaの記事[リンクはまだ]() を参照のこと
+GitHub上のpdfにおいて日本語が表示されない問題のサンプル。  
+詳しくはQiitaの記事[リンク](https://qiita.com/nisshy82/items/2c403e8787cf551255a1) を参照のこと
 
 ## pdffontの実行結果
 uniの部分が違う
